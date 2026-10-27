@@ -37,7 +37,6 @@ Error Reduction: Enabled precise root-cause targeting for high-frequency errors 
 Operational Excellence: Maintained a sustained 99.06% quality rate across thousands of processed audits.
 Enhanced Accountability: Provided clear performance metrics across regional markets and individual analysts to streamline workflow reviews and continuous quality enhancement.
 
-Dashboard Preview:-
-https://github.com/surajpawar31597/APAC-Audit-Quality-Dashboard-/blob/main/Screenshot%202026-10-27%20200822.png
+![Dashboard Preview](https://raw.githubusercontent.com/surajpawar31597/APAC-Audit-Quality-Dashboard-/main/Screenshot%202026-10-27%20200822.png)
 
 
