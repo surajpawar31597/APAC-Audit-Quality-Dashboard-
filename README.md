@@ -21,10 +21,15 @@ Managing high-volume document acquisition across diverse APAC markets (including
    
 # 3.Walkthrough of Key Visuals:-
 **Header KPI Cards:** Instant snapshot of core metrics including Total Audits (2.656K), Total Defects (25), Defect % (0.94%), Quality % (99.06%), Markets Covered (7), and Total Active DAs (5).
+
 **Monthly Audit Trend:** Dual-axis line and marker chart tracking total audit volumes alongside defect counts and flat high-quality trends over time.
+
 **Defect Heatmap (Market vs. Month):** Matrix view mapping out exact defect distributions across countries (Thailand, Australia, Singapore, Japan, Indonesia, Malaysia, New Zealand) across monthly cycles.
+
 **Top Defect Categories (Root Cause Analysis):** Horizontal bar breakdown isolating specific error types—leading with Subdoctype Error (8), Effective Date Error (7), and Mapping Issue (5), down to document classification and language errors.
+
 **Defects by Market:** Comparative regional bar chart highlighting total error volumes per country.
+
 **DA Performance Table:** Detailed tabular breakdown evaluating individual Document Analysts (Suraj, Monika, Ruta, Vedanth, and Ravindra) across total audits handled, defects logged, and individual quality percentages.
 
 # Business Impact:-
@@ -33,6 +38,6 @@ Operational Excellence: Maintained a sustained 99.06% quality rate across thousa
 Enhanced Accountability: Provided clear performance metrics across regional markets and individual analysts to streamline workflow reviews and continuous quality enhancement.
 
 Dashboard Preview:-
-
+https://github.com/surajpawar31597/APAC-Audit-Quality-Dashboard-/blob/main/Screenshot%202026-10-27%20200822.png
 
 
